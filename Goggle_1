@@ -23,7 +23,14 @@ $boost=7,site=france24.com
 $boost=2,site=lemonde.fr
 $boost=2,site=rtbf.be
 $boost=4,site=liberation.fr
+$boost=8,site=radiofrance^
+$boost=5,site=france.tv
 
 ! Big tech
 
 $downrank=7,site=amazon^
+
+! Arts and culture
+
+$downrank=3,site=allocine.fr
+$boost=2,site=imdb^
