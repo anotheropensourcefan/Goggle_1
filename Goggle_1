@@ -7,5 +7,6 @@
 
 $discard,site=cnews.fr
 $discard,site=bfmtv.com
+$discard,site=20minutes.fr
 
 $downrank=7,site=lefigaro.fr
