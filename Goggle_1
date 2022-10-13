@@ -3,5 +3,9 @@
 ! public: false
 ! author: anotheropensourcefan
 
-cnews^$downrank=8
-lefigaro^$discard
+! News
+
+cnews^$discard
+bfmtv^$discard
+
+lefigaro^$downrank=5
