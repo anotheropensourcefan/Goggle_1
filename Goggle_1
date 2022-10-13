@@ -8,5 +8,22 @@
 $discard,site=cnews.fr
 $discard,site=bfmtv.com
 $discard,site=20minutes.fr
+$discard,site=lci.fr
+$discard,site=valeursactuelles.com
 
-$downrank=7,site=lefigaro.fr
+
+$downrank=5,site=lefigaro.fr
+$downrank=7,site=actus.sfr.fr
+$downrank=5,site=actu.orange.fr
+$downrank=7,site=msn^
+$downrank=7,site=yahoo^
+
+
+$boost=7,site=france24.com
+$boost=2,site=lemonde.fr
+$boost=2,site=rtbf.be
+$boost=4,site=liberation.fr
+
+! Big tech
+
+$downrank=7,site=amazon^
