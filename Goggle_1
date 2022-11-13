@@ -15,22 +15,23 @@ $discard,site=valeursactuelles.com
 $downrank=5,site=lefigaro.fr
 $downrank=7,site=actus.sfr.fr
 $downrank=5,site=actu.orange.fr
-$downrank=7,site=msn^
-$downrank=7,site=yahoo^
+msn$downrank=7
+yahoo$downrank=7
 
 
 $boost=7,site=france24.com
 $boost=2,site=lemonde.fr
 $boost=2,site=rtbf.be
 $boost=4,site=liberation.fr
-$boost=8,site=radiofrance^
+radiofrance$boost=8
 $boost=5,site=france.tv
 
 ! Big tech
 
-$downrank=7,site=amazon^
+amazon$downrank=7
+booking.com$discard
 
 ! Arts and culture
 
 $downrank=3,site=allocine.fr
-$boost=2,site=imdb^
+imdb$boost=2
