@@ -30,8 +30,10 @@ $boost=5,site=france.tv
 
 amazon$downrank=7
 booking.com$discard
+cdiscount$downrank=10
 
 ! Arts and culture
 
 $downrank=3,site=allocine.fr
 imdb$boost=2
+ooreka$boost=3
