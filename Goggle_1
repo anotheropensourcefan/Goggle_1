@@ -3,6 +3,9 @@
 ! public: false
 ! author: anotheropensourcefan
 
+! General
+wiki$boost=1
+
 ! News
 
 $discard,site=cnews.fr
@@ -17,7 +20,7 @@ $downrank=7,site=actus.sfr.fr
 $downrank=5,site=actu.orange.fr
 msn$downrank=7
 yahoo$downrank=7
-
+wikipedia$downrank=2
 
 $boost=7,site=france24.com
 $boost=2,site=lemonde.fr
@@ -28,12 +31,29 @@ $boost=5,site=france.tv
 
 ! Big tech
 
-amazon$downrank=7
+amazon$downrank=15
 booking.com$discard
 cdiscount$downrank=10
+
+! Social media
+facebook$downrank=4
+instagram$downrank=1
+reddit$boost=4
+stack$boost=4
+youtube$boost=1
 
 ! Arts and culture
 
 $downrank=3,site=allocine.fr
 imdb$boost=2
 ooreka$boost=3
+geo.fr$boost=2
+natgeo$boost=3
+tripadvisor$boost=2
+
+! Science
+futura-sciences$boost=4
+totalenergies$downrank=11
+
+! Official
+insee$boost=4
