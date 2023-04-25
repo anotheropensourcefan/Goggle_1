@@ -22,11 +22,11 @@ msn$downrank=7
 yahoo$downrank=7
 wikipedia$downrank=2
 
-$boost=7,site=france24.com
+$boost=4,site=france24.com
 $boost=2,site=lemonde.fr
 $boost=2,site=rtbf.be
-$boost=4,site=liberation.fr
-radiofrance$boost=8
+$boost=2,site=liberation.fr
+radiofrance$boost=6
 $boost=5,site=france.tv
 
 ! Big tech
@@ -38,8 +38,9 @@ cdiscount$downrank=10
 ! Social media
 facebook$downrank=4
 instagram$downrank=1
-reddit$boost=4
-stack$boost=4
+reddit$boost=3
+quora$boost=4
+stack-overflow$boost=4
 youtube$boost=1
 
 ! Arts and culture
@@ -53,7 +54,7 @@ tripadvisor$boost=2
 
 ! Science
 futura-sciences$boost=4
-totalenergies$downrank=11
+totalenergies$downrank=15
 
 ! Official
 insee$boost=4
