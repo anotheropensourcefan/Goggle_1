@@ -58,3 +58,8 @@ totalenergies$downrank=15
 
 ! Official
 insee$boost=4
+
+! Botanique
+rustica.fr$boost=2
+tahitiheritage.pf$boost=2
+cuisineaz.com$downrank=5
