@@ -3,7 +3,7 @@
 ! name: Goggle_1
 ! description: My take on Brave Goggles
 
-$discard,site=cnews.fr
+$downrank=10,site=cnews.fr
 
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
