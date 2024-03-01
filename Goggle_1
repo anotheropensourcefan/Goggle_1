@@ -1,17 +1,18 @@
+! public: false
+! author: anotheropensourcefan
+
+
+
+
 ! News
 
 $discard,site=cnews.fr
-$discard,site=bfmtv.com
-$discard,site=20minutes.fr
-$discard,site=lci.fr
-$discard,site=valeursactuelles.com
 
-
-$downrank=5,site=lefigaro.fr
-$downrank=7,site=actus.sfr.fr
+@@ -20,14 +17,13 @@ $downrank=7,site=actus.sfr.fr
 $downrank=5,site=actu.orange.fr
 msn$downrank=7
 yahoo$downrank=7
+
 
 $boost=2,site=france24.com
 $boost=2,site=lemonde.fr
@@ -22,12 +23,8 @@ $boost=3,site=france.tv
 
 ! Big tech
 
-amazon$downrank=15
-booking.com$discard
-cdiscount$downrank=10
 
-! Social media
-facebook$downrank=4
+@@ -40,7 +36,7 @@ facebook$downrank=4
 instagram$downrank=1
 reddit$boost=3
 quora$boost=4
@@ -36,11 +33,7 @@ youtube$boost=1
 
 ! Arts and culture
 
-$downrank=3,site=allocine.fr
-imdb$boost=2
-ooreka$boost=3
-geo.fr$boost=2
-natgeo$boost=3
+@@ -53,8 +49,8 @@ natgeo$boost=3
 tripadvisor$boost=2
 
 ! Science
