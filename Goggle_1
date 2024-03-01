@@ -5,8 +5,8 @@
 
 $discard,site=cnews.fr
 
-$downrank=7,site=actus.sfr.fr
-$downrank=5,site=actu.orange.fr
+actus.sfr.fr$downrank=7
+actu.orange.fr$downrank=5
 msn$downrank=7
 yahoo$downrank=7
 
@@ -17,14 +17,14 @@ $boost=1,site=liberation.fr
 radiofrance$boost=4
 $boost=3,site=france.tv
 
-@@ -40,7 +36,7 @@ facebook$downrank=4
+facebook$downrank=4
 instagram$downrank=1
 reddit$boost=3
 quora$boost=4
 stackoverflow$boost=4
 youtube$boost=1
 
-@@ -53,8 +49,8 @@ natgeo$boost=3
+natgeo$boost=3
 tripadvisor$boost=2
 
 futura-sciences$boost=3
