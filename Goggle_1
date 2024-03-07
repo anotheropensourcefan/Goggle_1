@@ -5,29 +5,32 @@
 
 $downrank=10,site=cnews.fr
 
-actus.sfr.fr$downrank=7
-actu.orange.fr$downrank=5
-msn$downrank=7
-yahoo$downrank=7
+$downrank=7,site=actus.sfr.fr
+$downrank=5,site=actu.orange.fr
+$downrank=7,site=msn.com
+$downrank=7,site=yahoo.com
 
 $boost=2,site=france24.com
 $boost=2,site=lemonde.fr
 $boost=1,site=rtbf.be
 $boost=1,site=liberation.fr
-radiofrance$boost=4
+$boost=4,site=radiofrance.fr
 $boost=3,site=france.tv
 
-facebook$downrank=4
-instagram$downrank=1
-reddit$boost=3
-quora$boost=4
-stackoverflow$boost=4
-youtube$boost=1
+$downrank=4,site=facebook.com
+$downrank=1,site=instagram.com
+$boost=3,site=reddit.com
+$boost=4,site=quora.com
+$boost=4,site=stackoverflow.com
+$boost=1,site=youtube.com
 
-natgeo$boost=3
-tripadvisor$boost=2
+$boost=3,site=natgeo.com
+$boost=2,site=tripadvisor.com
 
-futura-sciences$boost=3
-totalenergies$downrank=15
+$boost=3,site=futura-sciences.com
+$downrank=15,site=totalenergies.fr
+$downrank=15,site=totalenergies.com
 
-insee$boost=3
+$boost=3,site=insee.fr
+
+$downrank=6,site=lavise.fr
