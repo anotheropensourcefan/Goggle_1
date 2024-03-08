@@ -1,38 +1,35 @@
-! public: false
-! author: anotheropensourcefan
-! name: Goggle_1
-! description: My take on Brave Goggles
 
-$downrank=10,site=cnews.fr
+			
+		! public: true
+		! author: anotheropensourcefan
+		! name: Goggle_1
+		! description: My take on Brave Goggles
 
-$downrank=7,site=actus.sfr.fr
-$downrank=5,site=actu.orange.fr
-$downrank=7,site=msn.com
-$downrank=7,site=yahoo.com
-
-$boost=2,site=france24.com
-$boost=2,site=lemonde.fr
-$boost=1,site=rtbf.be
-$boost=1,site=liberation.fr
-$boost=4,site=radiofrance.fr
-$boost=3,site=france.tv
-$downrank=3,site=20minutes.fr
-$downrank=1,site=lefigaro.fr
-
-$downrank=4,site=facebook.com
-$downrank=1,site=instagram.com
-$boost=3,site=reddit.com
-$boost=4,site=quora.com
-$boost=4,site=stackoverflow.com
-$boost=1,site=youtube.com
-
-$boost=3,site=natgeo.com
-$boost=2,site=tripadvisor.com
-
-$boost=3,site=futura-sciences.com
-$downrank=15,site=totalenergies.fr
-$downrank=15,site=totalenergies.com
-
-$boost=3,site=insee.fr
-
-$downrank=6,site=lavise.fr
+		
+			cnews.fr$downrank=10
+actus.sfr.fr$downrank=7
+actu.orange.fr$downrank=5
+msn.com$downrank=7
+yahoo.com$downrank=7
+france24.com$boost=2
+lemonde.fr$boost=2
+rtbf.be$boost=1
+liberation.fr$boost=1
+radiofrance.fr$boost=4
+france.tv$boost=3
+20minutes.fr$downrank=3
+lefigaro.fr$downrank=1
+facebook.com$downrank=4
+instagram.com$downrank=1
+reddit.com$boost=3
+quora.com$boost=4
+stackoverflow.com$boost=4
+youtube.com$boost=1
+natgeo.com$boost=3
+tripadvisor.com$boost=2
+futura-sciences.com$boost=3
+totalenergies.fr$downrank=15
+totalenergies.com$downrank=15
+insee.fr$boost=3
+lavise.fr$downrank=6
+		
