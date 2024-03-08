@@ -16,6 +16,8 @@ $boost=1,site=rtbf.be
 $boost=1,site=liberation.fr
 $boost=4,site=radiofrance.fr
 $boost=3,site=france.tv
+$downrank=3,site=20minutes.fr
+$downrank=1,site=lefigaro.fr
 
 $downrank=4,site=facebook.com
 $downrank=1,site=instagram.com
