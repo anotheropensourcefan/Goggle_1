@@ -1,11 +1,12 @@
 
-			
-! public: false
+
+! public: true
 ! author: anotheropensourcefan
 ! name: Goggle_1
 ! description: My take on Brave Goggles
 
 		
+undefined$boost=NaN
 cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
@@ -30,6 +31,6 @@ tripadvisor.com$boost=2
 futura-sciences.com$boost=3
 totalenergies.fr$downrank=15
 totalenergies.com$downrank=15
-insee.fr$boost=7
+insee.fr$boost=10
 lavise.fr$downrank=6
 		
