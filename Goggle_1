@@ -6,7 +6,7 @@
 		! description: undefined
 
 		
-			undefined$boost=NaN
+			undefined$boost=0
 			cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
@@ -31,6 +31,6 @@ tripadvisor.com$boost=2
 futura-sciences.com$boost=3
 totalenergies.fr$downrank=15
 totalenergies.com$downrank=15
-insee.fr$boost=3
+insee.fr$boost=7
 lavise.fr$downrank=6
 		
