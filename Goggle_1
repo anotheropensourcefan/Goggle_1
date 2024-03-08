@@ -6,6 +6,7 @@
 		! description: My take on Brave Goggles
 
 		
+			undefined$boost=NaN
 			cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
@@ -32,4 +33,5 @@ totalenergies.fr$downrank=15
 totalenergies.com$downrank=15
 insee.fr$boost=3
 lavise.fr$downrank=6
+cnews.fr$downrank=10
 		
