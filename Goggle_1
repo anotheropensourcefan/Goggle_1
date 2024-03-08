@@ -1,13 +1,12 @@
 
 			
-		! public: undefined
-		! author: undefined
-		! name: undefined
-		! description: undefined
+! public: false
+! author: anotheropensourcefan
+! name: Goggle_1
+! description: My take on Brave Goggles
 
 		
-			undefined$boost=0
-			cnews.fr$downrank=10
+cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
 msn.com$downrank=7
