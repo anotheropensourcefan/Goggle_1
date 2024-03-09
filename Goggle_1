@@ -5,8 +5,6 @@
 ! name: Goggle_1
 ! description: My take on Brave Goggles
 
-		
-undefined$boost=NaN
 cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
