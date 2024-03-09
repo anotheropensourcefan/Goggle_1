@@ -38,4 +38,4 @@ fr.wikipedia.org$downrank=1
 bfmtv.com$downrank=7
 francetvinfo.fr$boost=1
 tf1info.fr$downrank=1
-		
+amazon.$downrank=9
