@@ -5,6 +5,7 @@
 ! name: Goggle_1
 ! description: My take on Brave Goggles
 
+		
 cnews.fr$downrank=10
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
@@ -32,4 +33,5 @@ totalenergies.com$downrank=15
 insee.fr$boost=9
 lavise.fr$downrank=6
 blast-info.fr$boost=5
+undefined$boost=NaN
 		
