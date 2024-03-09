@@ -32,6 +32,6 @@ totalenergies.fr$downrank=15
 totalenergies.com$downrank=15
 insee.fr$boost=9
 lavise.fr$downrank=6
-blast-info.fr$boost=5
+blast-info.fr$boost=7
 undefined$boost=NaN
 		
