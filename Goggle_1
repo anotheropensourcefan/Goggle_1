@@ -5,8 +5,6 @@
 ! name: Goggle_1
 ! description: My take on Brave Goggles
 
-		
-
 cnews.fr$downrank=9
 actus.sfr.fr$downrank=7
 actu.orange.fr$downrank=5
@@ -49,4 +47,5 @@ detentejardin.com$downrank=3
 deco.fr$downrank=4
 paysansdavenir.com$boost=1
 lemonde.fr$boost=2
-		
+isocialtips.com$downrank=3
+frandroid.com$boost=2
