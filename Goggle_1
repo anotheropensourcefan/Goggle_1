@@ -52,3 +52,6 @@ frandroid.com$boost=2
 monde-diplomatique.fr$boost=2
 lepoint.fr$downrank=5
 journaldesfemmes.fr$downrank=3
+musixmatch.com$boost=2
+fr.muztext.com$downrank=3
+paroles-traduction.com$downrank=2
