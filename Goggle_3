@@ -30,7 +30,7 @@ insee.fr$boost=7
 lavise.fr$downrank=6
 blast-info.fr$boost=4
 fr.wikipedia.org$downrank=1
-$downrank=9,site=bfmtv.com
+bfmtv$downrank=9
 francetvinfo.fr$boost=1
 tf1info.fr$downrank=1
 amazon.$downrank=9
@@ -58,3 +58,4 @@ parismatch.com$downrank=4
 la-croix.com$downrank=7
 twitter.com$downrank=3
 humanite.fr$boost=2
+24heures.ch$downrank=3
